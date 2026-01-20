@@ -1,0 +1,7 @@
+requests
+pymysql
+streamlit
+pandas
+sqlalchemy
+altair
+python-dotenv

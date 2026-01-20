@@ -1,0 +1,1240 @@
+{
+  "site_environment_log": [
+    {
+      "timestamp": "2026-01-16 00:00:00",
+      "ambient_temp_c": "24.9",
+      "ambient_humidity_pct": "16",
+      "vibration_index": "2.11"
+    },
+    {
+      "timestamp": "2026-01-16 01:00:00",
+      "ambient_temp_c": "22.2",
+      "ambient_humidity_pct": "18",
+      "vibration_index": "0.74"
+    },
+    {
+      "timestamp": "2026-01-16 02:00:00",
+      "ambient_temp_c": "19.5",
+      "ambient_humidity_pct": "21",
+      "vibration_index": "1.19"
+    },
+    {
+      "timestamp": "2026-01-16 03:00:00",
+      "ambient_temp_c": "17.4",
+      "ambient_humidity_pct": "25",
+      "vibration_index": "0.6"
+    },
+    {
+      "timestamp": "2026-01-16 04:00:00",
+      "ambient_temp_c": "17.1",
+      "ambient_humidity_pct": "24",
+      "vibration_index": "0.13"
+    },
+    {
+      "timestamp": "2026-01-16 05:00:00",
+      "ambient_temp_c": "15.7",
+      "ambient_humidity_pct": "30",
+      "vibration_index": "0.91"
+    },
+    {
+      "timestamp": "2026-01-16 06:00:00",
+      "ambient_temp_c": "14.7",
+      "ambient_humidity_pct": "32",
+      "vibration_index": "0.53"
+    },
+    {
+      "timestamp": "2026-01-16 07:00:00",
+      "ambient_temp_c": "13.3",
+      "ambient_humidity_pct": "38",
+      "vibration_index": "0.85"
+    },
+    {
+      "timestamp": "2026-01-16 08:00:00",
+      "ambient_temp_c": "12.9",
+      "ambient_humidity_pct": "42",
+      "vibration_index": "1.72"
+    },
+    {
+      "timestamp": "2026-01-16 09:00:00",
+      "ambient_temp_c": "11.5",
+      "ambient_humidity_pct": "47",
+      "vibration_index": "1.01"
+    },
+    {
+      "timestamp": "2026-01-16 10:00:00",
+      "ambient_temp_c": "10.4",
+      "ambient_humidity_pct": "51",
+      "vibration_index": "1.9"
+    },
+    {
+      "timestamp": "2026-01-16 11:00:00",
+      "ambient_temp_c": "10.6",
+      "ambient_humidity_pct": "49",
+      "vibration_index": "2.48"
+    },
+    {
+      "timestamp": "2026-01-16 12:00:00",
+      "ambient_temp_c": "10.4",
+      "ambient_humidity_pct": "53",
+      "vibration_index": "1.17"
+    },
+    {
+      "timestamp": "2026-01-16 13:00:00",
+      "ambient_temp_c": "9.6",
+      "ambient_humidity_pct": "57",
+      "vibration_index": "0.82"
+    },
+    {
+      "timestamp": "2026-01-16 14:00:00",
+      "ambient_temp_c": "8.1",
+      "ambient_humidity_pct": "64",
+      "vibration_index": "1.92"
+    },
+    {
+      "timestamp": "2026-01-16 15:00:00",
+      "ambient_temp_c": "8.7",
+      "ambient_humidity_pct": "61",
+      "vibration_index": "1.61"
+    },
+    {
+      "timestamp": "2026-01-16 16:00:00",
+      "ambient_temp_c": "12.5",
+      "ambient_humidity_pct": "54",
+      "vibration_index": "1.79"
+    },
+    {
+      "timestamp": "2026-01-16 17:00:00",
+      "ambient_temp_c": "15.5",
+      "ambient_humidity_pct": "45",
+      "vibration_index": "0.72"
+    },
+    {
+      "timestamp": "2026-01-16 18:00:00",
+      "ambient_temp_c": "18.2",
+      "ambient_humidity_pct": "39",
+      "vibration_index": "0.65"
+    },
+    {
+      "timestamp": "2026-01-16 19:00:00",
+      "ambient_temp_c": "20.6",
+      "ambient_humidity_pct": "30",
+      "vibration_index": "2.07"
+    },
+    {
+      "timestamp": "2026-01-16 20:00:00",
+      "ambient_temp_c": "22.8",
+      "ambient_humidity_pct": "25",
+      "vibration_index": "1.57"
+    },
+    {
+      "timestamp": "2026-01-16 21:00:00",
+      "ambient_temp_c": "23.7",
+      "ambient_humidity_pct": "23",
+      "vibration_index": "1.0"
+    },
+    {
+      "timestamp": "2026-01-16 22:00:00",
+      "ambient_temp_c": "24.5",
+      "ambient_humidity_pct": "19",
+      "vibration_index": "2.36"
+    },
+    {
+      "timestamp": "2026-01-16 23:00:00",
+      "ambient_temp_c": "24.7",
+      "ambient_humidity_pct": "17",
+      "vibration_index": "0.43"
+    }
+  ],
+  "lot_genealogy": [
+    {
+      "lot_id": "LLIVE-0116-0000",
+      "product_type": "Logic_5nm",
+      "start_time": "2026-01-16 00:00:00",
+      "end_time": "2026-01-16 00:00:00",
+      "current_status": "Completed"
+    },
+    {
+      "lot_id": "LLIVE-0116-0100",
+      "product_type": "Logic_5nm",
+      "start_time": "2026-01-16 01:00:00",
+      "end_time": "2026-01-16 01:00:00",
+      "current_status": "Completed"
+    },
+    {
+      "lot_id": "LLIVE-0116-0200",
+      "product_type": "Logic_5nm",
+      "start_time": "2026-01-16 02:00:00",
+      "end_time": "2026-01-16 02:00:00",
+      "current_status": "Completed"
+    },
+    {
+      "lot_id": "LLIVE-0116-0300",
+      "product_type": "Logic_5nm",
+      "start_time": "2026-01-16 03:00:00",
+      "end_time": "2026-01-16 03:00:00",
+      "current_status": "Completed"
+    },
+    {
+      "lot_id": "LLIVE-0116-0400",
+      "product_type": "Logic_5nm",
+      "start_time": "2026-01-16 04:00:00",
+      "end_time": "2026-01-16 04:00:00",
+      "current_status": "Completed"
+    },
+    {
+      "lot_id": "LLIVE-0116-0500",
+      "product_type": "Logic_5nm",
+      "start_time": "2026-01-16 05:00:00",
+      "end_time": "2026-01-16 05:00:00",
+      "current_status": "Completed"
+    },
+    {
+      "lot_id": "LLIVE-0116-0600",
+      "product_type": "Logic_5nm",
+      "start_time": "2026-01-16 06:00:00",
+      "end_time": "2026-01-16 06:00:00",
+      "current_status": "Completed"
+    },
+    {
+      "lot_id": "LLIVE-0116-0700",
+      "product_type": "Logic_5nm",
+      "start_time": "2026-01-16 07:00:00",
+      "end_time": "2026-01-16 07:00:00",
+      "current_status": "Completed"
+    },
+    {
+      "lot_id": "LLIVE-0116-0800",
+      "product_type": "Logic_5nm",
+      "start_time": "2026-01-16 08:00:00",
+      "end_time": "2026-01-16 08:00:00",
+      "current_status": "Completed"
+    },
+    {
+      "lot_id": "LLIVE-0116-0900",
+      "product_type": "Logic_5nm",
+      "start_time": "2026-01-16 09:00:00",
+      "end_time": "2026-01-16 09:00:00",
+      "current_status": "Completed"
+    },
+    {
+      "lot_id": "LLIVE-0116-1000",
+      "product_type": "Logic_5nm",
+      "start_time": "2026-01-16 10:00:00",
+      "end_time": "2026-01-16 10:00:00",
+      "current_status": "Completed"
+    },
+    {
+      "lot_id": "LLIVE-0116-1100",
+      "product_type": "Logic_5nm",
+      "start_time": "2026-01-16 11:00:00",
+      "end_time": "2026-01-16 11:00:00",
+      "current_status": "Completed"
+    },
+    {
+      "lot_id": "LLIVE-0116-1200",
+      "product_type": "Logic_5nm",
+      "start_time": "2026-01-16 12:00:00",
+      "end_time": "2026-01-16 12:00:00",
+      "current_status": "Completed"
+    },
+    {
+      "lot_id": "LLIVE-0116-1300",
+      "product_type": "Logic_5nm",
+      "start_time": "2026-01-16 13:00:00",
+      "end_time": "2026-01-16 13:00:00",
+      "current_status": "Completed"
+    },
+    {
+      "lot_id": "LLIVE-0116-1400",
+      "product_type": "Logic_5nm",
+      "start_time": "2026-01-16 14:00:00",
+      "end_time": "2026-01-16 14:00:00",
+      "current_status": "Completed"
+    },
+    {
+      "lot_id": "LLIVE-0116-1500",
+      "product_type": "Logic_5nm",
+      "start_time": "2026-01-16 15:00:00",
+      "end_time": "2026-01-16 15:00:00",
+      "current_status": "Completed"
+    },
+    {
+      "lot_id": "LLIVE-0116-1600",
+      "product_type": "Logic_5nm",
+      "start_time": "2026-01-16 16:00:00",
+      "end_time": "2026-01-16 16:00:00",
+      "current_status": "Completed"
+    },
+    {
+      "lot_id": "LLIVE-0116-1700",
+      "product_type": "Logic_5nm",
+      "start_time": "2026-01-16 17:00:00",
+      "end_time": "2026-01-16 17:00:00",
+      "current_status": "Completed"
+    },
+    {
+      "lot_id": "LLIVE-0116-1800",
+      "product_type": "Logic_5nm",
+      "start_time": "2026-01-16 18:00:00",
+      "end_time": "2026-01-16 18:00:00",
+      "current_status": "Completed"
+    },
+    {
+      "lot_id": "LLIVE-0116-1900",
+      "product_type": "Logic_5nm",
+      "start_time": "2026-01-16 19:00:00",
+      "end_time": "2026-01-16 19:00:00",
+      "current_status": "Completed"
+    },
+    {
+      "lot_id": "LLIVE-0116-2000",
+      "product_type": "Logic_5nm",
+      "start_time": "2026-01-16 20:00:00",
+      "end_time": "2026-01-16 20:00:00",
+      "current_status": "Completed"
+    },
+    {
+      "lot_id": "LLIVE-0116-2100",
+      "product_type": "Logic_5nm",
+      "start_time": "2026-01-16 21:00:00",
+      "end_time": "2026-01-16 21:00:00",
+      "current_status": "Completed"
+    },
+    {
+      "lot_id": "LLIVE-0116-2200",
+      "product_type": "Logic_5nm",
+      "start_time": "2026-01-16 22:00:00",
+      "end_time": "2026-01-16 22:00:00",
+      "current_status": "Completed"
+    },
+    {
+      "lot_id": "LLIVE-0116-2300",
+      "product_type": "Logic_5nm",
+      "start_time": "2026-01-16 23:00:00",
+      "end_time": "2026-01-16 23:00:00",
+      "current_status": "Completed"
+    }
+  ],
+  "process_cvd_log": [
+    {
+      "run_id": "749a5b6b-19f3-4c17-b8cd-169d80d6d03b",
+      "lot_id": "LLIVE-0116-0000",
+      "recipe_target_temp": "600",
+      "actual_temp": "602.58",
+      "chamber_pressure": "39.56",
+      "gas_flow_rate": "200"
+    },
+    {
+      "run_id": "1022626e-0ad4-4de6-9ce8-24acab10e7a1",
+      "lot_id": "LLIVE-0116-0100",
+      "recipe_target_temp": "600",
+      "actual_temp": "601.96",
+      "chamber_pressure": "39.8",
+      "gas_flow_rate": "200"
+    },
+    {
+      "run_id": "360987cb-a50e-4431-ad4c-f7898b670406",
+      "lot_id": "LLIVE-0116-0200",
+      "recipe_target_temp": "600",
+      "actual_temp": "602.44",
+      "chamber_pressure": "39.68",
+      "gas_flow_rate": "200"
+    },
+    {
+      "run_id": "46e6d913-adca-46a4-aeb2-a4308609432b",
+      "lot_id": "LLIVE-0116-0300",
+      "recipe_target_temp": "600",
+      "actual_temp": "602.71",
+      "chamber_pressure": "40.18",
+      "gas_flow_rate": "200"
+    },
+    {
+      "run_id": "644fe0f6-e716-4d04-9315-26f5eb5e185a",
+      "lot_id": "LLIVE-0116-0400",
+      "recipe_target_temp": "600",
+      "actual_temp": "603.13",
+      "chamber_pressure": "40.14",
+      "gas_flow_rate": "200"
+    },
+    {
+      "run_id": "f2489fae-ef1a-4726-a0c2-3fe49f57b242",
+      "lot_id": "LLIVE-0116-0500",
+      "recipe_target_temp": "600",
+      "actual_temp": "604.06",
+      "chamber_pressure": "39.61",
+      "gas_flow_rate": "200"
+    },
+    {
+      "run_id": "1b6e0dbd-3e1c-45f7-9c89-ed4797b43cd9",
+      "lot_id": "LLIVE-0116-0600",
+      "recipe_target_temp": "600",
+      "actual_temp": "602.53",
+      "chamber_pressure": "40.21",
+      "gas_flow_rate": "200"
+    },
+    {
+      "run_id": "48d3b971-2b4d-4e75-baea-e45c6677e6f6",
+      "lot_id": "LLIVE-0116-0700",
+      "recipe_target_temp": "600",
+      "actual_temp": "603.62",
+      "chamber_pressure": "39.51",
+      "gas_flow_rate": "200"
+    },
+    {
+      "run_id": "50f1e951-b33e-4635-8a77-dbd9c23d3da9",
+      "lot_id": "LLIVE-0116-0800",
+      "recipe_target_temp": "600",
+      "actual_temp": "602.57",
+      "chamber_pressure": "40.08",
+      "gas_flow_rate": "200"
+    },
+    {
+      "run_id": "d42fa950-8da4-46f6-9acc-c2992578b064",
+      "lot_id": "LLIVE-0116-0900",
+      "recipe_target_temp": "600",
+      "actual_temp": "602.69",
+      "chamber_pressure": "39.88",
+      "gas_flow_rate": "200"
+    },
+    {
+      "run_id": "69bcf2d7-57d2-496a-8d27-7a68a3540cbf",
+      "lot_id": "LLIVE-0116-1000",
+      "recipe_target_temp": "600",
+      "actual_temp": "603.25",
+      "chamber_pressure": "40.41",
+      "gas_flow_rate": "200"
+    },
+    {
+      "run_id": "0a0da4bc-dad1-47cb-818e-791419ca7bd7",
+      "lot_id": "LLIVE-0116-1100",
+      "recipe_target_temp": "600",
+      "actual_temp": "602.93",
+      "chamber_pressure": "39.58",
+      "gas_flow_rate": "200"
+    },
+    {
+      "run_id": "dfbc1b28-92e0-4a74-8a96-9ad658d000b6",
+      "lot_id": "LLIVE-0116-1200",
+      "recipe_target_temp": "600",
+      "actual_temp": "603.63",
+      "chamber_pressure": "39.58",
+      "gas_flow_rate": "200"
+    },
+    {
+      "run_id": "520ff4b6-d581-4538-b914-7b52347409d7",
+      "lot_id": "LLIVE-0116-1300",
+      "recipe_target_temp": "600",
+      "actual_temp": "603.7",
+      "chamber_pressure": "40.07",
+      "gas_flow_rate": "200"
+    },
+    {
+      "run_id": "8ebbe9a3-6bc6-4165-a17e-3bd9d9630d6d",
+      "lot_id": "LLIVE-0116-1400",
+      "recipe_target_temp": "600",
+      "actual_temp": "603.97",
+      "chamber_pressure": "40.19",
+      "gas_flow_rate": "200"
+    },
+    {
+      "run_id": "02b89a06-a447-4b26-820f-9c9c62481e21",
+      "lot_id": "LLIVE-0116-1500",
+      "recipe_target_temp": "600",
+      "actual_temp": "603.78",
+      "chamber_pressure": "39.96",
+      "gas_flow_rate": "200"
+    },
+    {
+      "run_id": "0a7ece83-7ec9-46a3-9f68-d0c1dc75465c",
+      "lot_id": "LLIVE-0116-1600",
+      "recipe_target_temp": "600",
+      "actual_temp": "603.25",
+      "chamber_pressure": "39.98",
+      "gas_flow_rate": "200"
+    },
+    {
+      "run_id": "2f2f0059-c998-4e85-8b9d-3d67cb9f10cc",
+      "lot_id": "LLIVE-0116-1700",
+      "recipe_target_temp": "600",
+      "actual_temp": "604.36",
+      "chamber_pressure": "40.34",
+      "gas_flow_rate": "200"
+    },
+    {
+      "run_id": "486fdee9-5337-4870-adf0-81b1f8402e98",
+      "lot_id": "LLIVE-0116-1800",
+      "recipe_target_temp": "600",
+      "actual_temp": "604.77",
+      "chamber_pressure": "39.62",
+      "gas_flow_rate": "200"
+    },
+    {
+      "run_id": "1ef05ac0-ca2f-487a-9dff-e04316affd56",
+      "lot_id": "LLIVE-0116-1900",
+      "recipe_target_temp": "600",
+      "actual_temp": "604.01",
+      "chamber_pressure": "40.3",
+      "gas_flow_rate": "200"
+    },
+    {
+      "run_id": "c3b17176-3640-409a-83e9-227c6aa0aece",
+      "lot_id": "LLIVE-0116-2000",
+      "recipe_target_temp": "600",
+      "actual_temp": "604.24",
+      "chamber_pressure": "39.83",
+      "gas_flow_rate": "200"
+    },
+    {
+      "run_id": "bbc6f8f9-d8d6-4ec1-9b7e-5e68a0e3be0e",
+      "lot_id": "LLIVE-0116-2100",
+      "recipe_target_temp": "600",
+      "actual_temp": "604.99",
+      "chamber_pressure": "39.53",
+      "gas_flow_rate": "200"
+    },
+    {
+      "run_id": "f7080687-e7ad-4575-9ace-5686875bbc40",
+      "lot_id": "LLIVE-0116-2200",
+      "recipe_target_temp": "600",
+      "actual_temp": "604.86",
+      "chamber_pressure": "40.2",
+      "gas_flow_rate": "200"
+    },
+    {
+      "run_id": "f32c446e-6be0-4f12-a431-bec82c716286",
+      "lot_id": "LLIVE-0116-2300",
+      "recipe_target_temp": "600",
+      "actual_temp": "604.38",
+      "chamber_pressure": "40.26",
+      "gas_flow_rate": "200"
+    }
+  ],
+  "process_litho_log": [
+    {
+      "run_id": "6341717c-37d3-4634-82bc-4c416b255fd1",
+      "lot_id": "LLIVE-0116-0000",
+      "focus_offset": "0.0",
+      "exposure_dose_energy": "25",
+      "alignment_accuracy_x": "0.049",
+      "alignment_accuracy_y": "0.001"
+    },
+    {
+      "run_id": "9a0393e3-5b8b-4077-bec7-959f6d629b07",
+      "lot_id": "LLIVE-0116-0100",
+      "focus_offset": "-0.17",
+      "exposure_dose_energy": "25",
+      "alignment_accuracy_x": "-1.741",
+      "alignment_accuracy_y": "-1.115"
+    },
+    {
+      "run_id": "a6866e1b-7939-4582-b09e-c44922958d35",
+      "lot_id": "LLIVE-0116-0200",
+      "focus_offset": "1.06",
+      "exposure_dose_energy": "25",
+      "alignment_accuracy_x": "0.461",
+      "alignment_accuracy_y": "-2.091"
+    },
+    {
+      "run_id": "a84b4394-b2c2-4413-beab-76ff7a2835a8",
+      "lot_id": "LLIVE-0116-0300",
+      "focus_offset": "-1.44",
+      "exposure_dose_energy": "25",
+      "alignment_accuracy_x": "1.772",
+      "alignment_accuracy_y": "-0.026"
+    },
+    {
+      "run_id": "22acd843-f043-4502-a2b7-306ac3fcdd2e",
+      "lot_id": "LLIVE-0116-0400",
+      "focus_offset": "-0.4",
+      "exposure_dose_energy": "25",
+      "alignment_accuracy_x": "-0.385",
+      "alignment_accuracy_y": "-0.528"
+    },
+    {
+      "run_id": "7d8ee4b5-f0bb-4c7b-80a3-3a63fa998af2",
+      "lot_id": "LLIVE-0116-0500",
+      "focus_offset": "-2.14",
+      "exposure_dose_energy": "25",
+      "alignment_accuracy_x": "-0.851",
+      "alignment_accuracy_y": "-0.925"
+    },
+    {
+      "run_id": "8a22b209-76dd-452b-80e4-77da47ef6f52",
+      "lot_id": "LLIVE-0116-0600",
+      "focus_offset": "0.82",
+      "exposure_dose_energy": "25",
+      "alignment_accuracy_x": "-0.609",
+      "alignment_accuracy_y": "-1.902"
+    },
+    {
+      "run_id": "375e1c0a-dbd9-4e0f-a616-bb17020a8b3e",
+      "lot_id": "LLIVE-0116-0700",
+      "focus_offset": "0.84",
+      "exposure_dose_energy": "25",
+      "alignment_accuracy_x": "-1.368",
+      "alignment_accuracy_y": "1.892"
+    },
+    {
+      "run_id": "33288502-d180-4a24-aca4-1c1092c349f5",
+      "lot_id": "LLIVE-0116-0800",
+      "focus_offset": "1.04",
+      "exposure_dose_energy": "25",
+      "alignment_accuracy_x": "0.933",
+      "alignment_accuracy_y": "-2.23"
+    },
+    {
+      "run_id": "6d1fb8ad-caba-4f6c-89ae-cb97f35d03e1",
+      "lot_id": "LLIVE-0116-0900",
+      "focus_offset": "1.4",
+      "exposure_dose_energy": "25",
+      "alignment_accuracy_x": "0.696",
+      "alignment_accuracy_y": "-0.484"
+    },
+    {
+      "run_id": "b1686e8e-7936-43d8-9aae-ac1b5862a67f",
+      "lot_id": "LLIVE-0116-1000",
+      "focus_offset": "3.58",
+      "exposure_dose_energy": "25",
+      "alignment_accuracy_x": "-2.684",
+      "alignment_accuracy_y": "2.278"
+    },
+    {
+      "run_id": "8195c8ed-cb04-436d-8898-ede02d9b16f3",
+      "lot_id": "LLIVE-0116-1100",
+      "focus_offset": "3.44",
+      "exposure_dose_energy": "25",
+      "alignment_accuracy_x": "-2.381",
+      "alignment_accuracy_y": "-0.44"
+    },
+    {
+      "run_id": "a0430814-7be2-4398-823d-f991b745e52f",
+      "lot_id": "LLIVE-0116-1200",
+      "focus_offset": "2.48",
+      "exposure_dose_energy": "25",
+      "alignment_accuracy_x": "-1.438",
+      "alignment_accuracy_y": "1.558"
+    },
+    {
+      "run_id": "93545006-d10f-4542-bfbc-1bfc3b13a317",
+      "lot_id": "LLIVE-0116-1300",
+      "focus_offset": "1.7",
+      "exposure_dose_energy": "25",
+      "alignment_accuracy_x": "-1.942",
+      "alignment_accuracy_y": "1.146"
+    },
+    {
+      "run_id": "e8a49cfe-ac64-4e18-b146-2568eaa631d7",
+      "lot_id": "LLIVE-0116-1400",
+      "focus_offset": "2.8",
+      "exposure_dose_energy": "25",
+      "alignment_accuracy_x": "-0.45",
+      "alignment_accuracy_y": "1.968"
+    },
+    {
+      "run_id": "929e9698-b44c-4b16-85ad-6b0008a308ba",
+      "lot_id": "LLIVE-0116-1500",
+      "focus_offset": "4.08",
+      "exposure_dose_energy": "25",
+      "alignment_accuracy_x": "-0.44",
+      "alignment_accuracy_y": "1.239"
+    },
+    {
+      "run_id": "fbf3510f-afa3-4072-a82b-78a74271ad2d",
+      "lot_id": "LLIVE-0116-1600",
+      "focus_offset": "3.04",
+      "exposure_dose_energy": "25",
+      "alignment_accuracy_x": "1.075",
+      "alignment_accuracy_y": "1.115"
+    },
+    {
+      "run_id": "9a1f4ecd-3a90-4c29-b0c0-20f0d61bf10f",
+      "lot_id": "LLIVE-0116-1700",
+      "focus_offset": "1.53",
+      "exposure_dose_energy": "25",
+      "alignment_accuracy_x": "-0.633",
+      "alignment_accuracy_y": "0.783"
+    },
+    {
+      "run_id": "d3a747a6-c018-46e0-94d3-8f80812ce25a",
+      "lot_id": "LLIVE-0116-1800",
+      "focus_offset": "0.97",
+      "exposure_dose_energy": "25",
+      "alignment_accuracy_x": "2.648",
+      "alignment_accuracy_y": "-2.287"
+    },
+    {
+      "run_id": "22f9bc09-d152-488b-b614-4abbbfac951b",
+      "lot_id": "LLIVE-0116-1900",
+      "focus_offset": "2.13",
+      "exposure_dose_energy": "25",
+      "alignment_accuracy_x": "-2.062",
+      "alignment_accuracy_y": "-2.945"
+    },
+    {
+      "run_id": "84ee0a92-42c0-4f50-b662-550287b396ec",
+      "lot_id": "LLIVE-0116-2000",
+      "focus_offset": "2.02",
+      "exposure_dose_energy": "25",
+      "alignment_accuracy_x": "-1.399",
+      "alignment_accuracy_y": "-2.488"
+    },
+    {
+      "run_id": "bd04dbba-9c7f-40cb-b239-2a218e4b1633",
+      "lot_id": "LLIVE-0116-2100",
+      "focus_offset": "-1.25",
+      "exposure_dose_energy": "25",
+      "alignment_accuracy_x": "1.588",
+      "alignment_accuracy_y": "-1.328"
+    },
+    {
+      "run_id": "080ac250-e484-4a9c-aaf2-65d9414889ed",
+      "lot_id": "LLIVE-0116-2200",
+      "focus_offset": "0.11",
+      "exposure_dose_energy": "25",
+      "alignment_accuracy_x": "0.188",
+      "alignment_accuracy_y": "1.653"
+    },
+    {
+      "run_id": "b172b6e4-c28a-4b68-88ac-9eecd54c1db7",
+      "lot_id": "LLIVE-0116-2300",
+      "focus_offset": "1.14",
+      "exposure_dose_energy": "25",
+      "alignment_accuracy_x": "0.814",
+      "alignment_accuracy_y": "0.521"
+    }
+  ],
+  "process_etch_log": [
+    {
+      "run_id": "667d5e02-c63a-425b-843b-384354e372ea",
+      "lot_id": "LLIVE-0116-0000",
+      "rf_power_forward": "1500",
+      "rf_power_reflected": "2.54",
+      "etch_time_seconds": "120",
+      "chamber_wall_temp": "64.98"
+    },
+    {
+      "run_id": "ebdd92c6-d3c0-4f34-ba4c-160696675f19",
+      "lot_id": "LLIVE-0116-0100",
+      "rf_power_forward": "1500",
+      "rf_power_reflected": "0.23",
+      "etch_time_seconds": "120",
+      "chamber_wall_temp": "64.44"
+    },
+    {
+      "run_id": "9a7fb9f1-e01c-4caa-bad3-bd834c84be02",
+      "lot_id": "LLIVE-0116-0200",
+      "rf_power_forward": "1500",
+      "rf_power_reflected": "3.15",
+      "etch_time_seconds": "120",
+      "chamber_wall_temp": "63.9"
+    },
+    {
+      "run_id": "28bca4ee-df2f-4828-b157-6fc47e0171cd",
+      "lot_id": "LLIVE-0116-0300",
+      "rf_power_forward": "1500",
+      "rf_power_reflected": "0.9",
+      "etch_time_seconds": "120",
+      "chamber_wall_temp": "63.48"
+    },
+    {
+      "run_id": "c1838ba7-5fb0-4f7f-9e50-4911cbcbe1ef",
+      "lot_id": "LLIVE-0116-0400",
+      "rf_power_forward": "1500",
+      "rf_power_reflected": "3.49",
+      "etch_time_seconds": "120",
+      "chamber_wall_temp": "63.42"
+    },
+    {
+      "run_id": "26dbe52e-ded0-4561-8d32-5d339e273d20",
+      "lot_id": "LLIVE-0116-0500",
+      "rf_power_forward": "1500",
+      "rf_power_reflected": "4.39",
+      "etch_time_seconds": "120",
+      "chamber_wall_temp": "63.14"
+    },
+    {
+      "run_id": "5c0d999f-1a63-4886-9353-1dc99158e858",
+      "lot_id": "LLIVE-0116-0600",
+      "rf_power_forward": "1500",
+      "rf_power_reflected": "4.04",
+      "etch_time_seconds": "120",
+      "chamber_wall_temp": "62.94"
+    },
+    {
+      "run_id": "0b5eea0b-d555-4232-af97-e785f6e1a040",
+      "lot_id": "LLIVE-0116-0700",
+      "rf_power_forward": "1500",
+      "rf_power_reflected": "0.62",
+      "etch_time_seconds": "120",
+      "chamber_wall_temp": "62.66"
+    },
+    {
+      "run_id": "a33c576d-8236-410d-a601-7291931bcac9",
+      "lot_id": "LLIVE-0116-0800",
+      "rf_power_forward": "1500",
+      "rf_power_reflected": "2.77",
+      "etch_time_seconds": "120",
+      "chamber_wall_temp": "62.58"
+    },
+    {
+      "run_id": "41ab6e54-77d3-4fd0-9a5d-830e77d59644",
+      "lot_id": "LLIVE-0116-0900",
+      "rf_power_forward": "1500",
+      "rf_power_reflected": "1.74",
+      "etch_time_seconds": "120",
+      "chamber_wall_temp": "62.3"
+    },
+    {
+      "run_id": "09fa3eda-735c-4d36-b88c-314e71d3c2ff",
+      "lot_id": "LLIVE-0116-1000",
+      "rf_power_forward": "1500",
+      "rf_power_reflected": "1.33",
+      "etch_time_seconds": "120",
+      "chamber_wall_temp": "62.08"
+    },
+    {
+      "run_id": "46ff692a-931a-4b64-bcac-82c97542978b",
+      "lot_id": "LLIVE-0116-1100",
+      "rf_power_forward": "1500",
+      "rf_power_reflected": "0.99",
+      "etch_time_seconds": "120",
+      "chamber_wall_temp": "62.12"
+    },
+    {
+      "run_id": "c77576e2-e0e4-4d01-9800-28aaa7098efb",
+      "lot_id": "LLIVE-0116-1200",
+      "rf_power_forward": "1500",
+      "rf_power_reflected": "1.04",
+      "etch_time_seconds": "120",
+      "chamber_wall_temp": "62.08"
+    },
+    {
+      "run_id": "c2820533-130f-4848-ae0b-57d60f92524f",
+      "lot_id": "LLIVE-0116-1300",
+      "rf_power_forward": "1500",
+      "rf_power_reflected": "3.36",
+      "etch_time_seconds": "120",
+      "chamber_wall_temp": "61.92"
+    },
+    {
+      "run_id": "85bd541e-273d-49cb-bdf0-44fc3a902542",
+      "lot_id": "LLIVE-0116-1400",
+      "rf_power_forward": "1500",
+      "rf_power_reflected": "2.0",
+      "etch_time_seconds": "120",
+      "chamber_wall_temp": "61.62"
+    },
+    {
+      "run_id": "76e96827-9e5c-448c-ab59-01fac024c0b9",
+      "lot_id": "LLIVE-0116-1500",
+      "rf_power_forward": "1500",
+      "rf_power_reflected": "3.86",
+      "etch_time_seconds": "120",
+      "chamber_wall_temp": "61.74"
+    },
+    {
+      "run_id": "04be7918-1b5f-47f0-805b-4ac20b58eadd",
+      "lot_id": "LLIVE-0116-1600",
+      "rf_power_forward": "1500",
+      "rf_power_reflected": "1.79",
+      "etch_time_seconds": "120",
+      "chamber_wall_temp": "62.5"
+    },
+    {
+      "run_id": "9c4306bc-d49b-4137-987a-14dcdc576317",
+      "lot_id": "LLIVE-0116-1700",
+      "rf_power_forward": "1500",
+      "rf_power_reflected": "3.97",
+      "etch_time_seconds": "120",
+      "chamber_wall_temp": "63.1"
+    },
+    {
+      "run_id": "68ff91c9-cfec-4a52-8746-ec2fe1c903ff",
+      "lot_id": "LLIVE-0116-1800",
+      "rf_power_forward": "1500",
+      "rf_power_reflected": "0.11",
+      "etch_time_seconds": "120",
+      "chamber_wall_temp": "63.64"
+    },
+    {
+      "run_id": "e3602080-4287-4ce8-92d9-3ba329fa999b",
+      "lot_id": "LLIVE-0116-1900",
+      "rf_power_forward": "1500",
+      "rf_power_reflected": "3.96",
+      "etch_time_seconds": "120",
+      "chamber_wall_temp": "64.12"
+    },
+    {
+      "run_id": "ca3aad6d-c3cb-49df-a1b1-b6263a3964ff",
+      "lot_id": "LLIVE-0116-2000",
+      "rf_power_forward": "1500",
+      "rf_power_reflected": "4.73",
+      "etch_time_seconds": "120",
+      "chamber_wall_temp": "64.56"
+    },
+    {
+      "run_id": "f466475e-92a3-4f45-b1d7-183a24fd0b58",
+      "lot_id": "LLIVE-0116-2100",
+      "rf_power_forward": "1500",
+      "rf_power_reflected": "1.2",
+      "etch_time_seconds": "120",
+      "chamber_wall_temp": "64.74"
+    },
+    {
+      "run_id": "4bac10a4-fcd2-45c6-966c-c959fe49629e",
+      "lot_id": "LLIVE-0116-2200",
+      "rf_power_forward": "1500",
+      "rf_power_reflected": "1.88",
+      "etch_time_seconds": "120",
+      "chamber_wall_temp": "64.9"
+    },
+    {
+      "run_id": "d6cce04b-0641-4cb8-a4a4-4a8c06a00b42",
+      "lot_id": "LLIVE-0116-2300",
+      "rf_power_forward": "1500",
+      "rf_power_reflected": "0.3",
+      "etch_time_seconds": "120",
+      "chamber_wall_temp": "64.94"
+    }
+  ],
+  "metrology_inline": [
+    {
+      "run_id": "9703646c-640a-438d-abac-22ca70a680c8",
+      "lot_id": "LLIVE-0116-0000",
+      "step_name": "Post-CVD",
+      "measurement_name": "Thickness_A",
+      "value_measured": "102.58"
+    },
+    {
+      "run_id": "b29321ae-4071-4a3d-a875-7c11b775bd80",
+      "lot_id": "LLIVE-0116-0100",
+      "step_name": "Post-CVD",
+      "measurement_name": "Thickness_A",
+      "value_measured": "104.91"
+    },
+    {
+      "run_id": "b9ea72a6-2df1-41a3-8925-4135184d5f54",
+      "lot_id": "LLIVE-0116-0200",
+      "step_name": "Post-CVD",
+      "measurement_name": "Thickness_A",
+      "value_measured": "104.1"
+    },
+    {
+      "run_id": "431919ac-f776-4937-8913-f73ed1543401",
+      "lot_id": "LLIVE-0116-0300",
+      "step_name": "Post-CVD",
+      "measurement_name": "Thickness_A",
+      "value_measured": "104.53"
+    },
+    {
+      "run_id": "07b84cfc-5ca6-479f-bf71-dc30e464fa40",
+      "lot_id": "LLIVE-0116-0400",
+      "step_name": "Post-CVD",
+      "measurement_name": "Thickness_A",
+      "value_measured": "104.42"
+    },
+    {
+      "run_id": "eb6c0615-b9aa-410c-8163-f8178e402637",
+      "lot_id": "LLIVE-0116-0500",
+      "step_name": "Post-CVD",
+      "measurement_name": "Thickness_A",
+      "value_measured": "105.27"
+    },
+    {
+      "run_id": "e96b672f-7695-4291-b138-4c849c323499",
+      "lot_id": "LLIVE-0116-0600",
+      "step_name": "Post-CVD",
+      "measurement_name": "Thickness_A",
+      "value_measured": "105.02"
+    },
+    {
+      "run_id": "5093966e-778c-4295-958a-f5990a6d1f70",
+      "lot_id": "LLIVE-0116-0700",
+      "step_name": "Post-CVD",
+      "measurement_name": "Thickness_A",
+      "value_measured": "105.39"
+    },
+    {
+      "run_id": "5d9a8869-5a27-48df-aaa9-7d445160c0ef",
+      "lot_id": "LLIVE-0116-0800",
+      "step_name": "Post-CVD",
+      "measurement_name": "Thickness_A",
+      "value_measured": "105.56"
+    },
+    {
+      "run_id": "8bdf9368-9ea0-47f1-b761-f4f4bccecd70",
+      "lot_id": "LLIVE-0116-0900",
+      "step_name": "Post-CVD",
+      "measurement_name": "Thickness_A",
+      "value_measured": "106.5"
+    },
+    {
+      "run_id": "6d7f0c44-25bf-49a0-a0bc-999491876a61",
+      "lot_id": "LLIVE-0116-1000",
+      "step_name": "Post-CVD",
+      "measurement_name": "Thickness_A",
+      "value_measured": "104.99"
+    },
+    {
+      "run_id": "ecc928f9-efda-4967-b718-aec53acf8b09",
+      "lot_id": "LLIVE-0116-1100",
+      "step_name": "Post-CVD",
+      "measurement_name": "Thickness_A",
+      "value_measured": "104.4"
+    },
+    {
+      "run_id": "999f31ae-75dc-4de4-ba1d-180135f29c66",
+      "lot_id": "LLIVE-0116-1200",
+      "step_name": "Post-CVD",
+      "measurement_name": "Thickness_A",
+      "value_measured": "103.93"
+    },
+    {
+      "run_id": "0af60595-d2b0-4baf-9080-e438c3b44d5f",
+      "lot_id": "LLIVE-0116-1300",
+      "step_name": "Post-CVD",
+      "measurement_name": "Thickness_A",
+      "value_measured": "106.34"
+    },
+    {
+      "run_id": "b4fb1b2b-6f16-4836-9e55-29f95c59f40b",
+      "lot_id": "LLIVE-0116-1400",
+      "step_name": "Post-CVD",
+      "measurement_name": "Thickness_A",
+      "value_measured": "104.74"
+    },
+    {
+      "run_id": "96216ae0-65f3-4728-b167-6328ddac7255",
+      "lot_id": "LLIVE-0116-1500",
+      "step_name": "Post-CVD",
+      "measurement_name": "Thickness_A",
+      "value_measured": "106.48"
+    },
+    {
+      "run_id": "02cbf9be-6f66-41ae-9901-4e9b7589a6a3",
+      "lot_id": "LLIVE-0116-1600",
+      "step_name": "Post-CVD",
+      "measurement_name": "Thickness_A",
+      "value_measured": "105.08"
+    },
+    {
+      "run_id": "aa89d7db-b1c0-4acf-8460-23064ead2b7c",
+      "lot_id": "LLIVE-0116-1700",
+      "step_name": "Post-CVD",
+      "measurement_name": "Thickness_A",
+      "value_measured": "105.93"
+    },
+    {
+      "run_id": "4679f219-60b3-4e09-a963-044f454e90c0",
+      "lot_id": "LLIVE-0116-1800",
+      "step_name": "Post-CVD",
+      "measurement_name": "Thickness_A",
+      "value_measured": "108.01"
+    },
+    {
+      "run_id": "dd5cd952-c6f6-496b-be9b-00288c02b083",
+      "lot_id": "LLIVE-0116-1900",
+      "step_name": "Post-CVD",
+      "measurement_name": "Thickness_A",
+      "value_measured": "106.03"
+    },
+    {
+      "run_id": "7fa5b11b-8404-4e3d-abc7-35fdae6023de",
+      "lot_id": "LLIVE-0116-2000",
+      "step_name": "Post-CVD",
+      "measurement_name": "Thickness_A",
+      "value_measured": "107.07"
+    },
+    {
+      "run_id": "34ac5cdd-9378-45e3-b88a-39a8f74f2a42",
+      "lot_id": "LLIVE-0116-2100",
+      "step_name": "Post-CVD",
+      "measurement_name": "Thickness_A",
+      "value_measured": "106.3"
+    },
+    {
+      "run_id": "29843b3e-0ce2-4180-90d4-407a645776f4",
+      "lot_id": "LLIVE-0116-2200",
+      "step_name": "Post-CVD",
+      "measurement_name": "Thickness_A",
+      "value_measured": "105.84"
+    },
+    {
+      "run_id": "40b1f00e-71f9-43ee-8010-6ef7ee412a8c",
+      "lot_id": "LLIVE-0116-2300",
+      "step_name": "Post-CVD",
+      "measurement_name": "Thickness_A",
+      "value_measured": "106.71"
+    }
+  ],
+  "final_yield_log": [
+    {
+      "lot_id": "LLIVE-0116-0000",
+      "total_good_chips": "990",
+      "total_bad_chips": "9",
+      "yield_percentage": "99.0",
+      "bin_code": "Bin 1"
+    },
+    {
+      "lot_id": "LLIVE-0116-0100",
+      "total_good_chips": "986",
+      "total_bad_chips": "13",
+      "yield_percentage": "98.7",
+      "bin_code": "Bin 1"
+    },
+    {
+      "lot_id": "LLIVE-0116-0200",
+      "total_good_chips": "986",
+      "total_bad_chips": "13",
+      "yield_percentage": "98.62",
+      "bin_code": "Bin 1"
+    },
+    {
+      "lot_id": "LLIVE-0116-0300",
+      "total_good_chips": "986",
+      "total_bad_chips": "13",
+      "yield_percentage": "98.65",
+      "bin_code": "Bin 1"
+    },
+    {
+      "lot_id": "LLIVE-0116-0400",
+      "total_good_chips": "994",
+      "total_bad_chips": "5",
+      "yield_percentage": "99.47",
+      "bin_code": "Bin 1"
+    },
+    {
+      "lot_id": "LLIVE-0116-0500",
+      "total_good_chips": "963",
+      "total_bad_chips": "36",
+      "yield_percentage": "96.3",
+      "bin_code": "Bin 1"
+    },
+    {
+      "lot_id": "LLIVE-0116-0600",
+      "total_good_chips": "988",
+      "total_bad_chips": "11",
+      "yield_percentage": "98.81",
+      "bin_code": "Bin 1"
+    },
+    {
+      "lot_id": "LLIVE-0116-0700",
+      "total_good_chips": "947",
+      "total_bad_chips": "52",
+      "yield_percentage": "94.71",
+      "bin_code": "Bin 1"
+    },
+    {
+      "lot_id": "LLIVE-0116-0800",
+      "total_good_chips": "882",
+      "total_bad_chips": "117",
+      "yield_percentage": "88.23",
+      "bin_code": "Bin 0"
+    },
+    {
+      "lot_id": "LLIVE-0116-0900",
+      "total_good_chips": "787",
+      "total_bad_chips": "212",
+      "yield_percentage": "78.8",
+      "bin_code": "Bin 0"
+    },
+    {
+      "lot_id": "LLIVE-0116-1000",
+      "total_good_chips": "940",
+      "total_bad_chips": "59",
+      "yield_percentage": "94.04",
+      "bin_code": "Bin 1"
+    },
+    {
+      "lot_id": "LLIVE-0116-1100",
+      "total_good_chips": "942",
+      "total_bad_chips": "57",
+      "yield_percentage": "94.28",
+      "bin_code": "Bin 1"
+    },
+    {
+      "lot_id": "LLIVE-0116-1200",
+      "total_good_chips": "944",
+      "total_bad_chips": "55",
+      "yield_percentage": "94.4",
+      "bin_code": "Bin 1"
+    },
+    {
+      "lot_id": "LLIVE-0116-1300",
+      "total_good_chips": "809",
+      "total_bad_chips": "190",
+      "yield_percentage": "80.96",
+      "bin_code": "Bin 0"
+    },
+    {
+      "lot_id": "LLIVE-0116-1400",
+      "total_good_chips": "937",
+      "total_bad_chips": "62",
+      "yield_percentage": "93.7",
+      "bin_code": "Bin 1"
+    },
+    {
+      "lot_id": "LLIVE-0116-1500",
+      "total_good_chips": "796",
+      "total_bad_chips": "203",
+      "yield_percentage": "79.61",
+      "bin_code": "Bin 0"
+    },
+    {
+      "lot_id": "LLIVE-0116-1600",
+      "total_good_chips": "933",
+      "total_bad_chips": "66",
+      "yield_percentage": "93.39",
+      "bin_code": "Bin 1"
+    },
+    {
+      "lot_id": "LLIVE-0116-1700",
+      "total_good_chips": "851",
+      "total_bad_chips": "148",
+      "yield_percentage": "85.13",
+      "bin_code": "Bin 0"
+    },
+    {
+      "lot_id": "LLIVE-0116-1800",
+      "total_good_chips": "692",
+      "total_bad_chips": "307",
+      "yield_percentage": "69.23",
+      "bin_code": "Bin 0"
+    },
+    {
+      "lot_id": "LLIVE-0116-1900",
+      "total_good_chips": "888",
+      "total_bad_chips": "111",
+      "yield_percentage": "88.86",
+      "bin_code": "Bin 0"
+    },
+    {
+      "lot_id": "LLIVE-0116-2000",
+      "total_good_chips": "786",
+      "total_bad_chips": "213",
+      "yield_percentage": "78.68",
+      "bin_code": "Bin 0"
+    },
+    {
+      "lot_id": "LLIVE-0116-2100",
+      "total_good_chips": "861",
+      "total_bad_chips": "138",
+      "yield_percentage": "86.17",
+      "bin_code": "Bin 0"
+    },
+    {
+      "lot_id": "LLIVE-0116-2200",
+      "total_good_chips": "903",
+      "total_bad_chips": "96",
+      "yield_percentage": "90.35",
+      "bin_code": "Bin 1"
+    },
+    {
+      "lot_id": "LLIVE-0116-2300",
+      "total_good_chips": "819",
+      "total_bad_chips": "180",
+      "yield_percentage": "82.0",
+      "bin_code": "Bin 0"
+    }
+  ]
+}
