@@ -12,12 +12,18 @@ load_dotenv(dotenv_path=env_path)
 
 def get_db_connection():
     timeout = 100
+    host = os.getenv("MYSQL_HOST")
+    if not host:
+        print(f"CRITICAL ERROR: MYSQL_HOST is empty! load_dotenv tried to read: {env_path}")
+        print(f"Check if the file exists and has MYSQL_HOST defined.")
+        raise ValueError("Missing database credentials")
+        
     return pymysql.connect(
         charset="utf8mb4",
         connect_timeout=timeout,
         cursorclass=pymysql.cursors.DictCursor,
-        db=os.getenv("MYSQL_DB", "defaultdb"),
-        host=os.getenv("MYSQL_HOST"),
+        database=os.getenv("MYSQL_DB", "defaultdb"),
+        host=host,
         password=os.getenv("MYSQL_PASSWORD"),
         read_timeout=timeout,
         port=int(os.getenv("MYSQL_PORT", 23001)),
