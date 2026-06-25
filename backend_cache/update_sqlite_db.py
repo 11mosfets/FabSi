@@ -2,13 +2,14 @@ import os
 import pymysql
 import pandas as pd
 import sqlite3
-from dotenv import load_dotenv
+from dotenv import load_dotenv, find_dotenv
 
-# Ensure we are working in the script's directory for relative paths
-script_dir = os.path.dirname(os.path.abspath(__file__))
-# .env is in the parent directory
-env_path = os.path.join(os.path.dirname(script_dir), ".env")
-load_dotenv(dotenv_path=env_path)
+# Let dotenv find the file automatically by walking up the directory tree
+env_path = find_dotenv()
+load_status = load_dotenv(env_path, override=True)
+
+print(f"DEBUG: find_dotenv() found: '{env_path}'")
+print(f"DEBUG: load_dotenv() returned: {load_status}")
 
 def get_db_connection():
     timeout = 100
