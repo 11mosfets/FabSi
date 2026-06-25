@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-import pymysql
+import sqlite3
 import time
 import altair as alt
 import os
@@ -14,59 +14,25 @@ st.set_page_config(
     layout="wide"
 )
 
-def get_db_connection():
-    timeout = 10
-    return pymysql.connect(
-        charset="utf8mb4",
-        connect_timeout=timeout,
-        cursorclass=pymysql.cursors.DictCursor,
-        db=os.getenv("DB_NAME", "defaultdb"),
-        host=os.getenv("DB_HOST"),
-        password=os.getenv("DB_PASS"),
-        read_timeout=timeout,
-        port=int(os.getenv("DB_PORT", 23001)),
-        user=os.getenv("DB_USER"),
-        write_timeout=timeout,
-    )
-
 def get_data():
-    conn = None
     try:
-        conn = get_db_connection()
-        with conn.cursor() as cursor:
-            cursor.execute("USE Fab18;")
-            query = """
-            SELECT 
-                g.lot_id, 
-                g.end_time as timestamp,
-                y.yield_percentage,
-                c.actual_temp as cvd_temp,
-                c.recipe_target_temp as target_temp,
-                l.focus_offset as litho_focus,
-                m.value_measured as thickness,
-                e.ambient_humidity_pct as humidity
-            FROM lot_genealogy g
-            JOIN final_yield_log y ON g.lot_id = y.lot_id
-            JOIN process_cvd_log c ON g.lot_id = c.lot_id
-            JOIN process_litho_log l ON g.lot_id = l.lot_id
-            JOIN metrology_inline m ON g.lot_id = m.lot_id
-            JOIN site_environment_log e ON DATE_FORMAT(g.end_time, '%Y-%m-%d %H') = DATE_FORMAT(e.timestamp, '%Y-%m-%d %H')
-            ORDER BY g.end_time DESC
-            LIMIT 500;
-            """
-            cursor.execute(query)
-            result = cursor.fetchall()
-            df = pd.DataFrame(result)
-            
-            if not df.empty:
-                cols = ['yield_percentage', 'cvd_temp', 'target_temp', 'litho_focus', 'thickness', 'humidity']
-                df[cols] = df[cols].apply(pd.to_numeric, errors='coerce')
-            return df
+        db_path = 'backend_cache/local_data.db'
+        if not os.path.exists(db_path):
+            st.warning("Local cache not found. Please run `python backend_cache/update_sqlite_db.py` first.")
+            return pd.DataFrame()
+        
+        conn = sqlite3.connect(db_path)
+        query = "SELECT * FROM digital_twin_data;"
+        df = pd.read_sql_query(query, conn)
+        conn.close()
+        
+        if not df.empty:
+            cols = ['yield_percentage', 'cvd_temp', 'target_temp', 'litho_focus', 'thickness', 'humidity']
+            df[cols] = df[cols].apply(pd.to_numeric, errors='coerce')
+        return df
     except Exception as e:
-        st.error(f"Error: {e}")
+        st.error(f"Error reading from local cache: {e}")
         return pd.DataFrame()
-    finally:
-        if conn: conn.close()
 
 st.title("🏭 Fab18 Live Digital Twin")
 st.markdown(f"**Status:** System Online | **Last Update:** {time.strftime('%H:%M:%S UTC')}")

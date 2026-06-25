@@ -9,3 +9,7 @@ __pycache__/
 
 # OS
 .DS_Store
+
+# Backend Cache
+backend_cache/local_data.db
+backend_cache/cron.log
