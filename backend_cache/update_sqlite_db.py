@@ -4,6 +4,9 @@ import pandas as pd
 import sqlite3
 from dotenv import load_dotenv, find_dotenv
 
+# Ensure we are working in the script's directory for relative paths
+script_dir = os.path.dirname(os.path.abspath(__file__))
+
 # Let dotenv find the file automatically by walking up the directory tree
 env_path = find_dotenv()
 load_status = load_dotenv(env_path, override=True)
